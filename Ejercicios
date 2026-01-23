@@ -1,0 +1,24 @@
+fun main() {
+    println(one())
+    println(two())
+    println(three())
+}
+
+fun one(){
+    val greenNumbers = listOf(1, 4, 23)
+    val redNumbers = listOf(17, 2)
+    println("${greenNumbers.count()+redNumbers.count()}")
+}
+
+fun two(){
+    val SUPPORTED = setOf("HTTP", "HTTPS", "FTP")
+    val requested = "smtp"
+    val isSupported = SUPPORTED.contains(requested)
+    println("Support for $requested: $isSupported")
+}
+
+fun three(){
+    val number2word = mapOf(1 to "uno", 2 to "dos", 3 to "tres")
+    val n = 2
+    println("$n is spelt as ${number2word.getValue(n)}")
+}
