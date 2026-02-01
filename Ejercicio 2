@@ -1,0 +1,18 @@
+interface Vehicle {
+    val name: String
+    fun move(): String
+}
+
+object FlyingSkateboard
+{
+     val name = "Alice"
+     fun move() = "Glides through the air with a hover engine";
+   	fun fly()= "woooo"
+}
+
+fun main() {
+    println("${FlyingSkateboard.name}: ${FlyingSkateboard.move()}")
+    // Flying Skateboard: Glides through the air with a hover engine
+    println("${FlyingSkateboard.name}: ${FlyingSkateboard.fly()}")
+    // Flying Skateboard: Woooooooo
+}
