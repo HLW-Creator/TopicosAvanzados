@@ -1,0 +1,1 @@
+Con la palabra reservada object, defines una instancia única de forma nativa y segura para hilos. Los companion objects reemplazan a los miembros estáticos de Java, permitiendo que las clases tengan comportamientos asociados sin romper el paradigma de objetos.
