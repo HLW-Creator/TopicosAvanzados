@@ -1,0 +1,1 @@
+Su propósito es ejecutar un bloque de código dentro del contexto de un objeto. La clave es saber elegir: ¿Necesitas configurar el objeto (apply) o realizar una operación con su resultado (let)? Bien usadas, limpian el código de variables temporales innecesarias.
