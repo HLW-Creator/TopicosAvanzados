@@ -1,0 +1,1 @@
+La capacidad de extender sin heredar. Te permiten añadir funciones a cualquier clase (incluso las del sistema como String o Int) sin tocar su código fuente. Esto elimina la necesidad de las tediosas clases "Utils" de Java y hace que el código se lea de forma mucho más natural.
