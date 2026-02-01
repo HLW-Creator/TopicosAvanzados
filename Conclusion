@@ -1,0 +1,1 @@
+Es una lambda que tiene acceso a los métodos de un objeto como si estuviera dentro de la clase (usando this). Es lo que permite que librerías como Jetpack Compose o Ktor tengan esa sintaxis tan limpia y descriptiva.
