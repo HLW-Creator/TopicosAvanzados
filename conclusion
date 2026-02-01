@@ -1,0 +1,1 @@
+Mediante el sistema de tipos (String vs String?) y operadores como el de llamada segura (?.) o el de Elvis (?:), el compilador te obliga a manejar la ausencia de datos antes de que el programa explote en manos del usuario. Es como unn tipo de adiós definitivo al NullPointerException y es probablemente la característica más importante.
