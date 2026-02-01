@@ -1,0 +1,1 @@
+En Kotlin, las interfaces pueden tener lógica (implementaciones por defecto) y las clases son cerradas por defecto. La conclusión es que el diseño de software en Kotlin favorece la composición y los contratos claros sobre la herencia profunda y compleja.
