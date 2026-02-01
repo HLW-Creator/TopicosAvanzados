@@ -1,0 +1,1 @@
+El control total sobre la jerarquía de tipos. Aquí entran las sealed classes (jerarquías cerradas para un control absoluto en when), las data classes (para manejo puro de datos) y el uso de open para permitir la herencia. Te obligan a ser intencional con cómo otros pueden usar o extender tu código.
