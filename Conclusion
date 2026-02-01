@@ -1,0 +1,1 @@
+En Kotlin, no existen los "campos" simples; todo es una propiedad. Esto significa que puedes tener lógica personalizada en los getters y setters, usar lateinit para inicialización tardía o delegar el valor mediante by lazy para ahorrar memoria.
