@@ -1,0 +1,1 @@
+Kotlin está diseñado para convivir con el ecosistema de Java y Android de forma transparente. La conclusión en este nivel es saber cómo organizar tu propio código para que sea consumible como una API limpia, utilizando modificadores de visibilidad y una estructura de paquetes lógica.
